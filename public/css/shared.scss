@@ -1,0 +1,9 @@
+:root
+{
+    --main-bg-colour: rgb(25, 25, 25);
+    --main-div-colour: rgb(252, 246, 246);
+
+    --header-font-size: clamp(1rem, calc(1.75vw + 1vh), 1.6rem); 
+    --subtitle-font-size: clamp(0.8rem, calc(1vw + 1vh), 1.25rem);
+    --paragraph-font-size: clamp(0.5rem, calc(0.8vw + 1.1vh), 1.2rem);
+}
